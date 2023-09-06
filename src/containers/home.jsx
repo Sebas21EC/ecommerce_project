@@ -7,6 +7,9 @@ const Home = () => {
             <div className="text-blue-500">
                 Home
             </div>
+            <div className="text-blue-500">
+                Home
+            </div>
 
         </Layout>
     )
